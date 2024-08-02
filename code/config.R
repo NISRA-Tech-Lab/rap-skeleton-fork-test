@@ -22,7 +22,8 @@ bilingual <- TRUE
 
 currentyear <- 2025
 title <- "NISRA Technology & Support Lab RAP Skeleton Demo Report"
-subtitle <- "Version Three"
+subtitle <- "Version Four"
+
 
 ##### HEADER ######
 # Select the Statistic type for the report - select from the list of five below
