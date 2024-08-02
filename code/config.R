@@ -22,7 +22,7 @@ bilingual <- TRUE
 
 currentyear <- 2024
 title <- "NISRA Technology & Support Lab RAP Skeleton Demo Report"
-subtitle <- "Version Two"
+subtitle <- "Version Four"
 
 ##### HEADER ######
 # Select the Statistic type for the report - select from the list of five below
@@ -44,7 +44,7 @@ next_pub_date <- "10 June 2025"
 
 header_publisher <-
   "Dissemination Branch, Northern Ireland Statistics & Research Agency"
-lead_statistician <- "John Smith"
+lead_statistician <- "Joe Bloggs"
 header_telephone <- "028 XX XXXXXX"
 header_email <- "contact@nisra.gov.uk"
 
