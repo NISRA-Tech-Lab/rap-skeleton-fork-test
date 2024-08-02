@@ -6,7 +6,7 @@
 
 # Set Report parameters, name of department, pre release status and logo type
 
-nicstheme <- "dof"
+nicstheme <- "dfc"
 prerelease <- TRUE
 bilingual <- TRUE
 
@@ -20,9 +20,9 @@ bilingual <- TRUE
 # Set the report title and subtitle if required
 # THESE SHOULD BE UPDATED FOR EACH NEW PUBLICATION
 
-currentyear <- 2024
+currentyear <- 2025
 title <- "NISRA Technology & Support Lab RAP Skeleton Demo Report"
-subtitle <- "Version Two"
+subtitle <- "Version Three"
 
 ##### HEADER ######
 # Select the Statistic type for the report - select from the list of five below
@@ -182,6 +182,13 @@ ons_blue <- "#12436d"
 ons_green <- "#28a197"
 ons_red <- "#801650"
 ons_orange <- "#f46a25"
+
+de_pink <- "#ca2c93"
+de_navy <- "#00205b"
+de_green <- "#00a350"
+de_purple <- "#7e1156"
+de_lilac <- "#ce70d2" # needs black text
+de_grey <- "#3D3D3D"
 
 #### CALL & LOAD FUNCTIONS SCRIPTS ####
 for (file in list.files(path = paste0(here(), "/code/", "functions"))) {
