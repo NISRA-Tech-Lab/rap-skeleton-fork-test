@@ -35,8 +35,8 @@ statistic_type <- "as" # options: as  (Accredited Official Statistics),
 
 # Set the report publication data and next publication data if required
 
-pub_date <- "10 June 2024"
-next_pub_date <- "10 June 2025"
+pub_date <- "10 June 2025"
+next_pub_date <- "10 June 2024"
 
 ##### CONTACT DETAILS #####
 # Set contact details for the report - these details will feed into the contact
@@ -44,7 +44,7 @@ next_pub_date <- "10 June 2025"
 
 header_publisher <-
   "Dissemination Branch, Northern Ireland Statistics & Research Agency"
-lead_statistician <- "John Smith"
+lead_statistician <- "Jessica McCallion"
 header_telephone <- "028 XX XXXXXX"
 header_email <- "contact@nisra.gov.uk"
 
